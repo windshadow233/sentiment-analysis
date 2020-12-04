@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c2c8a07a-554e-4f4f-8bc3-fdcb79b198ab" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ilDMFi1pbMJxkqnLwouN7Afbu3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.sentiment_train">
+    <configuration name="sentiment_analysis" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="sentiment analysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/models" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/models/sentiment_analysis.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sentiment_dataset" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="sentiment analysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dataset" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dataset/sentiment_dataset.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sentiment_train" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="sentiment analysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sentiment_train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.sentiment_analysis" />
+      <item itemvalue="Python.sentiment_dataset" />
+      <item itemvalue="Python.sentiment_train" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.sentiment_train" />
+        <item itemvalue="Python.sentiment_dataset" />
+        <item itemvalue="Python.sentiment_analysis" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c2c8a07a-554e-4f4f-8bc3-fdcb79b198ab" name="Default Changelist" comment="" />
+      <created>1602473234219</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602473234219</updated>
+      <workItem from="1602473242067" duration="2551000" />
+      <workItem from="1602579363987" duration="15118000" />
+      <workItem from="1602644747244" duration="32000" />
+      <workItem from="1602842689583" duration="322000" />
+      <workItem from="1603028388295" duration="665000" />
+      <workItem from="1606556491300" duration="9000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602584342038">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1602584342038" />
+    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1602644776015">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1602644776015" />
+    <state width="1493" height="362" key="GridCell.Tab.0.bottom" timestamp="1602615087307">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="362" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1602615087307" />
+    <state width="1493" height="362" key="GridCell.Tab.0.center" timestamp="1602615087307">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="362" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1602615087307" />
+    <state width="1493" height="362" key="GridCell.Tab.0.left" timestamp="1602615087307">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="362" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1602615087307" />
+    <state width="1493" height="362" key="GridCell.Tab.0.right" timestamp="1602615087307">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="362" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1602615087307" />
+    <state x="270" y="74" key="SettingsEditor" timestamp="1602473869053">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="270" y="74" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1602473869053" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/sentiment_analysis$sentiment_train.coverage" NAME="sentiment_train Coverage Results" MODIFIED="1602584336822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/sentiment_analysis$sentiment_analysis.coverage" NAME="sentiment_analysis Coverage Results" MODIFIED="1602473900947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models" />
+    <SUITE FILE_PATH="coverage/sentiment_analysis$sentiment_dataset.coverage" NAME="sentiment_dataset Coverage Results" MODIFIED="1602579834793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dataset" />
+  </component>
+</project>
