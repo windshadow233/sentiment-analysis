@@ -9,7 +9,6 @@ class BertSentimentPredict(nn.Module):
         self.dense = nn.Linear(1024 * 2, 1024)
         self.final_dense = nn.Linear(1024, 2)
         self.activation = nn.Sigmoid()
-        self.softmax = nn.Softmax(dim=-1)
 
     def forward(self, text_input):
         encoded_layers, pooled = self.bert_model(text_input)
@@ -20,5 +19,5 @@ class BertSentimentPredict(nn.Module):
         pooled = self.activation(pooled)
 
         predictions = self.final_dense(pooled)
-        predictions = self.softmax(predictions)
+        # predictions = self.softmax(predictions)
         return predictions
